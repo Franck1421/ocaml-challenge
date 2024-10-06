@@ -1,0 +1,17 @@
+# dune exec mux
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/francesco/.cache/dune/db
+# Workspace root:
+# /home/francesco/Universita/2anno/ALF/ocaml-challenge/1/mux/mux
+# Auto-detected concurrency: 4
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/francesco/.opam/default/bin/ocamlc.opt -config > /tmp/dune_1f52b7_output
