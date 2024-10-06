@@ -1,0 +1,17 @@
+# dune exec absolute_value
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/francesco/.cache/dune/db
+# Workspace root:
+# /home/francesco/Universita/2anno/ALF/ocaml-challenge/1/absolute-value/absolute_value
+# Auto-detected concurrency: 4
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/francesco/.opam/default/bin/ocamlc.opt -config > /tmp/dune_abef06_output
