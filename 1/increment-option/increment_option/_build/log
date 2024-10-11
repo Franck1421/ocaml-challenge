@@ -1,0 +1,17 @@
+# dune build
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/francesco/.cache/dune/db
+# Workspace root:
+# /home/francesco/Universita/2anno/ALF/ocaml-challenge/1/increment-option/increment_option
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; instrument_with = []
+#  }
+$ /home/francesco/.opam/lip/bin/ocamlc.opt -config > /tmp/dune_df3f6a_output

@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/increment_option/META"
+  "_build/install/default/lib/increment_option/dune-package"
+  "_build/install/default/lib/increment_option/opam"
+]
+bin: [
+  "_build/install/default/bin/increment_option"
+]
